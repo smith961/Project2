@@ -1,0 +1,44 @@
+img {
+    float: left;
+    margin: 0px 10px 20px 0px;
+    padding: 10px;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px outset greenyellow;
+  }
+  p  {
+   /* width: 100px;
+    height: 100px;
+    color: white;
+    padding: 20px;
+    background-color: blue;
+    background-clip: content-box;
+    border: 10px outset grey;
+    margin: 20px;
+    text-align: right; */
+
+  }
+  h1{
+    background-color: red; 
+    border: aqua; 
+    border-style: solid; 
+    max-width: fit-content;
+    padding-left: 0px;
+    margin-left: 300px;
+    
+
+    
+  }
+  .navbar{
+    color: blue;
+    text-align:left;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    
+
+    
+  }
